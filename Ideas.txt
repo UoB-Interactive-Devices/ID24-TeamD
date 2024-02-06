@@ -1,0 +1,4 @@
+OLIVER:
+-Gesture-Based Interactive Display for Art/Exhibits. (Screen which is controlled with hand motions - shows content related to exhbit).
+-Glass panel hologram of paintings talking to you.
+-Interactive map of bristol.
