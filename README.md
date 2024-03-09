@@ -33,4 +33,14 @@ Introduction Recipe Notes
 FIRST PROTOTYPE 13/3/24
 
 
+Samples of Abstract/Intro from Anne
+
+- In our world today, we often overlook the amazing ways our senses work together. Research in crossmodal correspondences have for example shown how our senses, like sight, smell, and touch, connect deeply with our emotions. For example, boubou kiki ...
+ 
+- But most people don't know about these connections because the information is usually in academic papers or boring exhibits. What if we could change that and make learning about our senses fun, engaging and interactive?
+ 
+- We contribute an exhibition where people don't just look at stuff—you actually play with it! Visitors can touch and feel objects that represent different senses. By putting these objects into special slots on a table, they can see how each one makes them feel.
+ 
+- We evaluate our exhibition ... blabla. But beyond this we also showcase how it can become a valuable platform for research, generating firsthand data on how individuals perceive and respond to sensory stimuli.
+
 
