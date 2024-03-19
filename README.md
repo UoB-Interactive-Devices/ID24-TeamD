@@ -6,6 +6,28 @@
 https://uob-my.sharepoint.com/:w:/r/personal/lf21817_bristol_ac_uk/Documents/-3d%20printed%20shapes%20based%20on%20tone%20analysis.docx?d=w7bb7267be4df43848a84592381e2ccbf&csf=1&web=1&e=TIwDVg
 
 
+# Idea
+A device to display "compatibility" between 2 users by playing a game in which users place a shape based on an emotion on a screen.
+
+## Design
+<p align="center">
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Idea.jpeg" />
+   <b>Idea Sketch</b>
+</p>
+
+### Different Views of Props
+<p align="center">
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Model%20Views.jpeg" />
+   <b>Model Side and Bottom Up Views</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Platform%20View.jpeg" />
+   <b>Platform Top Down View</b>
+</p>
+
+## Writing
+
 Introduction Recipe Notes
 
 1.)	Context
