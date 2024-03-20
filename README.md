@@ -66,3 +66,24 @@ Samples of Abstract/Intro from Anne
 - We evaluate our exhibition ... blabla. But beyond this we also showcase how it can become a valuable platform for research, generating firsthand data on how individuals perceive and respond to sensory stimuli.
 
 
+
+
+- [ ] Tom & Mekyle  - Reduce orginal survey down to 6 shapes
+- [ ] Tom & Mekyle - Make new survey - 1) add option for other and let them write 2) add option for neutral 'no emotion' 3) choose 2 contraversial and one non contraversial for new models
+- [ ] Tom - Build seperating screen
+- [ ] Tom - Build shape holder
+- [ ] Tom - Draw up some designs
+      
+- [ ] Baddr - 3D modelling and print, after second survey complete, and 3 new shapes have been chosen.
+- [ ] Baddr - Report writing, perference design process check step 4 on github
+
+- [ ] Mekyle - Build boxes for shapes, slight circular indentation for shapes -> think about colour of boxes -> no lid will 3-d print
+- [ ] Mekyle - Write how related work DOES not cover our idea CHECK Github for outline step 3 
+
+
+- [ ] Yousuf - Build data base, 6 shapes for 6 emotions - think about how we will visualise the data
+- [ ] Yousuf - QR code to scan, enter ID provided by device, talk to tom for better idea on what we are thinking
+  
+- [ ] Oliver - keep writing like a legend - Preferably context and motivation CHECK GITHUB for outline step 1 and 2, we will help you proof read.
+
+
