@@ -70,8 +70,8 @@ https://www.printables.com/model/208272-interesting-shapes
 
 
 ##TO DO :
-- [ ] Tom & Mekyle  - Reduce orginal survey down to 6 shapes
-- [ ] Tom & Mekyle - Make new survey - 1) add option for other and let them write 2) add option for neutral 'no emotion' 3) choose 2 contraversial and one non contraversial for new models
+- [X] Tom & Mekyle  - Reduce orginal survey down to 6 shapes
+- [X] Tom & Mekyle - Make new survey - 1) add option for other and let them write 2) add option for neutral 'no emotion' 3) choose 2 contraversial and one non contraversial for new models
 - [ ] Tom - Build seperating screen
 - [ ] Tom - Build shape holder
 - [ ] Tom - Draw up some designs
