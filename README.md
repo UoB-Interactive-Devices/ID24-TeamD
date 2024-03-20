@@ -64,7 +64,9 @@ Samples of Abstract/Intro from Anne
 - We contribute an exhibition where people don't just look at stuff—you actually play with it! Visitors can touch and feel objects that represent different senses. By putting these objects into special slots on a table, they can see how each one makes them feel.
  
 - We evaluate our exhibition ... blabla. But beyond this we also showcase how it can become a valuable platform for research, generating firsthand data on how individuals perceive and respond to sensory stimuli.
-
+### 3d printable shapes 
+https://www.printables.com/model/421396-weird-shapes
+https://www.printables.com/model/208272-interesting-shapes
 
 
 ##TO DO :
