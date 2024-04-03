@@ -89,6 +89,10 @@ Samples of Abstract/Intro from Anne
 ### 3d printable shapes 
 https://www.printables.com/model/421396-weird-shapes
 https://www.printables.com/model/208272-interesting-shapes
+https://www.printables.com/model/605284-shuriken-coaster-replica-of-ninja-throwing-star#preview:file-ynA2j
+https://www.printables.com/model/651858-fidget-spike-ball
+https://www.printables.com/model/680360-modern-wavy-vase
+https://www.printables.com/model/421396-weird-shapes#preview:file-Dr2rH
 
 
 ##TO DO :
