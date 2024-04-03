@@ -28,28 +28,50 @@ A device to display "compatibility" between 2 users by playing a game in which u
 
 ## Writing
 
-Introduction Recipe Notes
+500 words a day = GET PUBLISHED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-1.)	Context
+Options, Decision, Why -> Formula for Paper writing 
+
+Abstract and Intro (clarity) (10) - Oliver - 1000 words
 -	Introduce Crossmoddal correspondences, idea of double empathy maybe.
-   
-2.)	The motivation
+
+Related work / originality (15) - Mekyle / Tom - 1500 words
 -	Extends previous research, provides basis for more research.
 -	Further explore the use of different shapes to potentially identify others, like kiki and bouba.
-  
-3.)	Show how relate work DOES not cover this.
 -	“Like Popcorn” paper, Researcher did this but not that. Point our differences.
 -	Note add papers.
 -	Talk about methods of expeirments -> mostly younger ages tested on
-  
-4.)	The solution / method / results
--	Outline method and steps -> theory, assembly, materials, ideas etc.
--	For surveying, explain results -> how they contributed to to experience
 
-5.)	How does the solution enable further research
+Study 1: User gathering data (10) - Yousuf - 1000 words
+- Talk about results of first survey
+- How we chose the shapes etc...
+- Results of 2nd survey how this influenced what shapes we chose for final project
+
+Design and implementation (15) - Badr - 1500
+-	Outline method and steps
+- theory, assembly, materials, ideas etc.
+
+Study 2: Device evaluation (15) - Tom -> since this is later - 1500
 -	Concept is not new, but the mode of interaction is new.
 -	Show potential for further research.
 -	Show what this research extends. 
+
+Discussion (5) - All ? - 500 words
+
+
+Total Mark - 70
+Total Words - 7000
+
+
+Next Meeting 10/4/24
+
+
+
+
+
+
+
+
 
 
 FIRST PROTOTYPE 13/3/24
