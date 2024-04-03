@@ -87,6 +87,7 @@ Samples of Abstract/Intro from Anne
  
 - We evaluate our exhibition ... blabla. But beyond this we also showcase how it can become a valuable platform for research, generating firsthand data on how individuals perceive and respond to sensory stimuli.
 ### 3d printable shapes 
+
 https://www.printables.com/model/421396-weird-shapes
 https://www.printables.com/model/208272-interesting-shapes
 https://www.printables.com/model/605284-shuriken-coaster-replica-of-ninja-throwing-star#preview:file-ynA2j
