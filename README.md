@@ -1,38 +1,41 @@
-## TAs ##
+# TAs 
 - Primary TA: Mamoru
 - Secondary TA: Jed
 
 ## Link to the report
-
-ADD OVERLEAF LINK HERE!!
-
-## Link to abstract
-https://uob-my.sharepoint.com/:w:/r/personal/lf21817_bristol_ac_uk/Documents/-3d%20printed%20shapes%20based%20on%20tone%20analysis.docx?d=w7bb7267be4df43848a84592381e2ccbf&csf=1&web=1&e=TIwDVg
-
+[Project Report](ID_TeamD_2024.pdf)
 
 # Idea
 A device to display "compatibility" between 2 users by playing a game in which users place a shape based on an emotion on a screen.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d80fe679-f5d9-4d59-a942-74d30d7ba3de" width="400"/>
+</div>
+
 ## Design
 <p align="center">
-  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Idea.jpeg" />
-   <b>Idea Sketch</b>
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Idea.jpeg"  width="400" />
+  <p align="center">
+    <b>Idea Sketch</b>
+  </p>
 </p>
 
-### Different Views of Props
+**Different Views of Props**
 <p align="center">
-  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Model%20Views.jpeg" />
-   <b>Model Side and Bottom Up Views</b>
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Model%20Views.jpeg"  width="400" />
+  <p align="center">
+     <b>Model Side and Bottom Up Views</b>
+  </p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Platform%20View.jpeg" />
-   <b>Platform Top Down View</b>
+  <img src="https://github.com/UoB-Interactive-Devices/ID24-TeamD/blob/main/Sketches/Platform%20View.jpeg"  width="400"/>
+  <p align="center">
+      <b>Platform Top Down View</b>
+  </p>
 </p>
 
 ## Writing
-
-500 words a day = GET PUBLISHED !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Options, Decision, Why -> Formula for Paper writing 
 
@@ -62,23 +65,12 @@ Study 2: Device evaluation (15) - Tom -> since this is later - 1500
 
 Discussion (5) - All ? - 500 words
 
-
 Total Mark - 70
 Total Words - 7000
 
+<BR>
 
-Next Meeting 10/4/24
-
-
-
-
-
-
-
-
-
-
-FIRST PROTOTYPE 13/3/24
+## FIRST PROTOTYPE 13/3/24
 
 
 Samples of Abstract/Intro from Anne
@@ -90,6 +82,7 @@ Samples of Abstract/Intro from Anne
 - We contribute an exhibition where people don't just look at stuff—you actually play with it! Visitors can touch and feel objects that represent different senses. By putting these objects into special slots on a table, they can see how each one makes them feel.
  
 - We evaluate our exhibition ... blabla. But beyond this we also showcase how it can become a valuable platform for research, generating firsthand data on how individuals perceive and respond to sensory stimuli.
+
 ### 3d printable shapes 
 
 https://www.printables.com/model/421396-weird-shapes
@@ -99,24 +92,21 @@ https://www.printables.com/model/651858-fidget-spike-ball
 https://www.printables.com/model/680360-modern-wavy-vase
 https://www.printables.com/model/421396-weird-shapes#preview:file-Dr2rH
 
-
-##TO DO :
+## TO DO :
 - [X] Tom & Mekyle  - Reduce orginal survey down to 6 shapes
 - [X] Tom & Mekyle - Make new survey - 1) add option for other and let them write 2) add option for neutral 'no emotion' 3) choose 2 contraversial and one non contraversial for new models
-- [ ] Tom - Build seperating screen
-- [ ] Tom - Build shape holder
-- [ ] Tom - Draw up some designs
+- [X] Tom - Build seperating screen
+- [X] Tom - Build shape holder
+- [X] Tom - Draw up some designs
       
-- [ ] Baddr - 3D modelling and print, after second survey complete, and 3 new shapes have been chosen.
-- [ ] Baddr - Report writing, perference design process check step 4 on github
+- [X] Baddr - 3D modelling and print, after second survey complete, and 3 new shapes have been chosen.
+- [X] Baddr - Report writing, perference design process check step 4 on github
 
-- [ ] Mekyle - Build boxes for shapes, slight circular indentation for shapes -> think about colour of boxes -> no lid will 3-d print
-- [ ] Mekyle - Write how related work DOES not cover our idea CHECK Github for outline step 3 
+- [X] Mekyle - Build boxes for shapes, slight circular indentation for shapes -> think about colour of boxes -> no lid will 3-d print
+- [X] Mekyle - Write how related work DOES not cover our idea CHECK Github for outline step 3 
 
 
-- [ ] Yousuf - Build data base, 6 shapes for 6 emotions - think about how we will visualise the data
-- [ ] Yousuf - QR code to scan, enter ID provided by device, talk to tom for better idea on what we are thinking
+- [X] Yousuf - Build data base, 6 shapes for 6 emotions - think about how we will visualise the data
+- [X] Yousuf - QR code to scan, enter ID provided by device, talk to tom for better idea on what we are thinking
   
-- [ ] Oliver - keep writing like a legend - Preferably context and motivation CHECK GITHUB for outline step 1 and 2, we will help you proof read.
-
-
+- [X] Oliver - keep writing like a legend - Preferably context and motivation CHECK GITHUB for outline step 1 and 2, we will help you proof read.
